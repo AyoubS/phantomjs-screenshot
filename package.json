@@ -1,0 +1,22 @@
+{
+  "name": "screenshot-phantomjs",
+  "version": "1.0.0",
+  "description": "Load URLs using PhantomJS and take screenshots asynchronously.",
+  "main": "\u001b[B\u001b[A",
+  "dependencies": {
+    "phantomjs": "^2.1.7",
+    "async": "^2.0.0-rc.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "js",
+    "phantomjs",
+    "async"
+  ],
+  "author": "unr00t",
+  "license": "MIT"
+}
