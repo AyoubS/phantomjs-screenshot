@@ -4,7 +4,8 @@ Load URLs using PhantomJS and take screenshots asynchronously.
 ## Usage
 
 First, install dependencies PhantomJS and Async using the following command:
-*npm install*
+
+`npm install`
 
 Configure the wanted hostname and probably the different routes.
 
@@ -21,4 +22,5 @@ var async = require('async'),
 ```
 
 Then lunch the program using:
-*phantomjs batch-capture.js*
+
+`phantomjs batch-capture.js`
