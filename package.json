@@ -17,6 +17,10 @@
     "phantomjs",
     "async"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AyoubS/phantomjs-screenshot.git"
+  },
   "author": "unr00t",
   "license": "MIT"
 }
